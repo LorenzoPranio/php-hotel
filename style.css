@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.fa-star{
+    color: goldenrod;
+}
+
+.goldtext{
+    color: goldenrod;
+}
+
+.bg-lightbrown{
+    --bs-table-bg: rgb(156, 135, 118);
+    --bs-table-color: white;
+    --bs-table-striped-color: white;
+    --bs-table-hover-color: goldenrod;
+}
+
+.bg-brown{
+    --bs-table-bg: rgb(102, 81, 64);
+}
+
+.bg-darkbrown{
+    background-color: rgb(54, 43, 35);
+}
